@@ -1,4 +1,7 @@
-### Hi there 👋
+Welcome to my github profile ✌
+
+Code
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 <!--
 **baadrobot/baadrobot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
